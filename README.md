@@ -1,2 +1,2 @@
-# DOE-assitant
+# DOE-assistant
 DOE assitant for enginner
